@@ -54,7 +54,7 @@ This project demonstrates how to work with large datasets, from extraction and c
 
 **Clone this repository:**
 
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/Nk2073/Retail-Sales-Inventory-Analytics-Pipeline.git
 
 **Install the required Python libraries:**
 
@@ -104,9 +104,9 @@ This project demonstrates a solid understanding of the data analytics lifecycle,
 
 Feel free to explore the project and reach out with any questions or feedback. I'm excited to connect with like-minded professionals and recruiters in the data analytics field.
 
-**LinkedIn:** https://www.linkedin.com/in/devisuhitha/
+**LinkedIn:** https://www.linkedin.com/in/neelesh-kumar-052262258/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-**Email:** cdevisuhitha@gmail.com
+**Email:** Neeleshsingh374@gmail.com
 
 
 
